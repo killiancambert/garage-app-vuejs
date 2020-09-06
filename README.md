@@ -7,7 +7,7 @@ Projet réalisé par :
 ## Contexte du projet
 
 On souhaite avoir une interface de gestion pour différents possesseurs de véhicules.
-Pour le back-office de créer une API avec différentes routes en utilisant le frmaework Nestjs.
+Pour le back-office de créer une API avec différentes routes en utilisant le framework Nestjs.
 Quand au front, l'interface permet d'ajouter un utilisateur qui peut modifier son nom et prénom mais aussi ajouter des voitures, les modifier et les supprimer de son garage virtuel.
 Pour cela nous utilisons le framework Vue.js.
 
