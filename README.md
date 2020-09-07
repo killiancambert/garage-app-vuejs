@@ -1,5 +1,9 @@
 # garage-app-vuejs
 
+### Projet réalisé par :
+
+- Killian Cambert : killiancambert
+
 ## IMPORTANT
 
 Une fois le dépôt cloner grâce à : 
@@ -81,7 +85,3 @@ npm run serve
 ```
 
 L'interface est maintenant visible sur (http://localhost:8080)
-
-### Projet réalisé par :
-
-- Killian Cambert : killiancambert
