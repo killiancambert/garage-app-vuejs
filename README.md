@@ -15,10 +15,6 @@ Il faut impérativement éxécuter la commande suivante, pour avoir la partie fr
 git clone --recurse-submodules https://github.com/killiancambert/user-garage-app-frontend
 ```
 
-Projet réalisé par :
-
-- Killian Cambert : killiancambert
-
 ## Contexte du projet
 
 On souhaite avoir une interface de gestion pour différents possesseurs de véhicules.
@@ -85,3 +81,7 @@ npm run serve
 ```
 
 L'interface est maintenant visible sur (http://localhost:8080)
+
+### Projet réalisé par :
+
+- Killian Cambert : killiancambert
