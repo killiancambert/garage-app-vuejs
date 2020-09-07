@@ -9,7 +9,7 @@ git clone https://github.com/killiancambert/garage-app-vuejs.git
 cd garage-app-vuejs
 ```
 
-Il faut impérativement éxécuter la commande suivante, pour avoir la partie front qui est un sous-module :
+Il faut impérativement éxécuter la commande suivante, pour importer la partie front qui est sur un autre dépôt mais qui est un sous-module sur ce projet :
 
 ```
 git clone --recurse-submodules https://github.com/killiancambert/user-garage-app-frontend
