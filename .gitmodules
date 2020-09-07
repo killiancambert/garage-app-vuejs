@@ -1,0 +1,3 @@
+[submodule "user-garage-app-frontend"]
+	path = user-garage-app-frontend
+	url = https://github.com/killiancambert/user-garage-app-frontend
