@@ -1,5 +1,20 @@
 # garage-app-vuejs
 
+## IMPORTANT
+
+Une fois le dépôt cloner grâce à : 
+
+```
+git clone https://github.com/killiancambert/garage-app-vuejs.git
+cd garage-app-vuejs
+```
+
+Il faut impérativement éxécuter la commande suivante, pour avoir la partie front qui est un sous-module :
+
+```
+git clone --recurse-submodules https://github.com/killiancambert/user-garage-app-frontend
+```
+
 Projet réalisé par :
 
 - Killian Cambert : killiancambert
