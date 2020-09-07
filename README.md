@@ -54,10 +54,16 @@ Cette API est lancée sur (http://localhost:3000).
 Pour lancer la partie front-office de cette application il faut ouvrir un nouveau terminal et se diriger sur `user-garage-app-frontend` grâce à cette commande :
 
 ```
-cd user-garage-app-backend
+cd user-garage-app-frontend
 ```
 
-Et ensuite lancer l'application :
+Ensuite il faut effectuer cette commande :
+
+```
+npm install
+```
+
+Et enfin lancer l'application :
 
 ```
 npm run serve
